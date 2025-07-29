@@ -9,7 +9,7 @@
 Углубляю знания JavaScript и изучаю Vue.js, чтобы создавать динамичные интерфейсы.
 
 * ⚡  Люблю превращать макеты в живые и удобные интерфейсы!
-* ✉️  Связаться со мной: [https://t.me/pawrun](mailto:https://t.me/pawrun)
+* ✉️  Связаться со мной: [https://t.me/pawrun](https://t.me/pawrun)
 
 ### Skills
 
